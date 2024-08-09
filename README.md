@@ -1,4 +1,5 @@
 
+
 <div align="center">
   <h1>Disco Shells</h1>
   <p>
@@ -22,4 +23,9 @@
 **Bash**
 ```bash
 ~ ./disco-bash.sh
+```
+**PowerShell**
+```powershell
+~ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+~ ./disco-powershell.ps1
 ```
