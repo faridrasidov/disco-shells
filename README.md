@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <h1>Disco Shells</h1>
   <p>
@@ -10,9 +8,10 @@
 ## Table of Contents
 - [Download](#Download)
 - [Usage](#usage)
+- [Example](#example)
 
 <a name="download"></a>
-## Download:
+## Download
 ```shell
 ~ git clone https://github.com/faridrasidov/disco-shells
 ~ cd disco-shells/
@@ -29,3 +28,8 @@
 ~ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ~ ./disco-powershell.ps1
 ```
+
+## Example
+<div align="center">
+  <img src="./images/example.gif" alt="Funny Cat">
+</div>
